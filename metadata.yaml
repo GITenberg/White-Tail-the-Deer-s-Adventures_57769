@@ -1,0 +1,28 @@
+_repo: White-Tail-the-Deer-s-Adventures_57769
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Prettie, Edwin J.
+    gutenberg_agent_id: '49595'
+    url: http://www.gutenberg.org/2009/agents/49595
+creator:
+  author:
+    agent_name: Walsh, George Ethelbert
+    alias: Walsh, George Ethelbert
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '8170'
+    url: http://www.gutenberg.org/2009/agents/8170
+description: ''
+gutenberg_issued: '2018-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: White Tail the Deer's Adventures
+url: http://www.gutenberg.org/ebooks/57769
