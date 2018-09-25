@@ -1,10 +1,13 @@
 _repo: White-Tail-the-Deer-s-Adventures_57769
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Prettie, Edwin J.
     gutenberg_agent_id: '49595'
     url: http://www.gutenberg.org/2009/agents/49595
+covers:
+- cover_type: archival
+  image_path: 57769-h/images/cover.jpg
 creator:
   author:
     agent_name: Walsh, George Ethelbert
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '8170'
     url: http://www.gutenberg.org/2009/agents/8170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57769#White-Tail-the-Deer-s-Adventures
 gutenberg_issued: '2018-08-25'
 gutenberg_type: Text
 identifiers:
